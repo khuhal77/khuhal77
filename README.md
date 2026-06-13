@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Khemraj Mehta</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning, AI, Compitive programming, DSA**
+- 🌱 I’m currently learning **Machine Learning, AI, Full Stack Development, Compitive programming, DSA**
 
 - 💬 Ask me about **Competitive programming,DSA,React JS, Next JS, AI/ML, Qiskit, Physics, Mathematics, Research**
 
-- 📫 How to reach me **khushalmehta67@gmail.com**
+- 📫 How to reach me **khemrajmehta077@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
